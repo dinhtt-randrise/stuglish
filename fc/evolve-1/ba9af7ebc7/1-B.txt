@@ -1,0 +1,13 @@
+Brasilia           | Brazil            | Brazilian
+Santiago           | Chile             | Chilean
+Beijing            | China             | Chinese
+Bogota             | Columbia          | Columbian
+Quito              | Ecuador           | Ecuadorian
+Paris              | France            | French
+Tegucigalpa        | Honduras          | Honduran
+Mexico City        | Mexico            | Mexican
+Lima               | Peru              | Peruvian
+Moscow             | Russia            | Russian
+Seoul              | South Korea       | South Korean
+Madrid             | Spain             | Spanish
+Washington, D.C.   | the United States | American
